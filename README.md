@@ -4,11 +4,15 @@ Wrapper for [libqrencode](https://github.com/fukuchi/libqrencode). Interactive s
 
 Install `qrencode` with [Brew](https://brew.sh/):
 
-  brew install qrencode
-  
+```
+brew install qrencode
+```
+
 Then run script
 
- ./txt-to-qr.sh
-  
+```
+./txt-to-qr.sh
+``` 
+
 and enter the text to encode.
 
